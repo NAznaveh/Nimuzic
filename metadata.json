@@ -1,0 +1,6 @@
+{
+  "name": "Nimusic",
+  "description": "A modern, sleek offline & online music player with media store scanner, Google Search music browser, lyrics viewer, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
