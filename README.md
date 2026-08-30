@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/31612070/README.md)
 <div align="center">
-  <img src="docs/assets/5b9ae325-57f5-4372-b4dc-0e2d2ca37dd4.png" alt="NiMusic" width="900" />
+  <img src="5b9ae325-57f5-4372-b4dc-0e2d2ca37dd4.png" alt="NiMusic" width="900" />
 
   <h1>NiMusic</h1>
 
