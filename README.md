@@ -120,15 +120,15 @@ This keeps the queue coherent instead of replacing all upcoming tracks after eve
 
 ## Security
 
-Never commit API keys, keystores, signing passwords, or other secrets to the repository.
+Never commit API keys, keystores, signing credentials, passwords, or other sensitive information to the repository.
 
-The project includes `.env.example` for local configuration, while `.env` is intentionally ignored by Git.
+The project includes `.env.example` for local configuration. Real `.env` files and other sensitive files should remain local and are intentionally excluded from Git.
 
 ## Contributing
 
-This project is currently maintained as an active personal development project. Issues, technical feedback, and thoughtful pull requests are welcome.
+NiMusic is currently maintained as an active personal development project.
 
-For changes to playback or Smart Shuffle, prefer small, focused commits and preserve the existing playback-session and stale-callback protections.
+Technical feedback and issue reports are welcome. Contributions or code reuse require prior approval from the repository owner.
 
 ## License
 
