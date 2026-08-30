@@ -151,9 +151,9 @@ For changes to playback or Smart Shuffle, prefer small, focused commits and pres
 
 ## License
 
-A license has not yet been selected for this project.
+NiMusic is licensed under the MIT License.
 
-Until a license is added, the source should not be assumed to be available for unrestricted redistribution or commercial use.
+See the [LICENSE](LICENSE) file for details.
 
 ## Roadmap
 
