@@ -151,9 +151,11 @@ For changes to playback or Smart Shuffle, prefer small, focused commits and pres
 
 ## License
 
-NiMusic is licensed under the MIT License.
+NiMusic is proprietary software. All rights reserved.
 
-See the [LICENSE](LICENSE) file for details.
+Viewing and studying the source code for personal, educational, and evaluation purposes is permitted. Copying, modifying, distributing, selling, or commercially using the software or substantial portions of its source code requires prior written permission from the copyright holder.
+
+See the [LICENSE](LICENSE) file for the full terms.
 
 ## Roadmap
 
