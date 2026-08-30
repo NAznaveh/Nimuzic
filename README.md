@@ -101,30 +101,11 @@ metadata.json
 
 ## Getting Started
 
-### Requirements
+NiMusic is currently under active development.
 
-- Android Studio
-- JDK compatible with the project's Gradle/Android setup
-- Android SDK configured for the project
-- An Android device or emulator running Android 7.0 (API 24) or newer
+This repository is primarily intended for portfolio presentation, code review, and educational reference.
 
-### Open the project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/NAznaveh/Nimuzic.git
-   cd Nimuzic
-   ```
-
-2. Open the project in Android Studio.
-3. Let Gradle sync and resolve dependencies.
-4. Create a local `.env` file only when a development secret is required. Start from `.env.example` and keep real keys out of Git.
-5. Build and run the **debug** variant on an emulator or physical Android device.
-
-### Google AI Studio
-
-The repository is also prepared for Google AI Studio's GitHub import workflow. See [`README_AI_STUDIO.md`](README_AI_STUDIO.md) for the import notes.
+For development or collaboration access, please contact the repository owner.
 
 ## Smart Shuffle Design
 
